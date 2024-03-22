@@ -10,7 +10,7 @@ export const MuiTypography = () => {
             Trying my best but every day, it's so hard
             Holding my breath
             Holding my breath 'til I can say
-            All of the words I want to say from my heart
+            All of the words I want to say from my heart.....
             </Typography>
             <Typography variant='h1'> pH Level of Water </Typography>
             <Typography variant = 'h2'> [insert value] </Typography>
