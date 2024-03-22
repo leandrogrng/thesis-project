@@ -1,5 +1,7 @@
 import './App.css'
-import { MuiTypography } from './assets/components/Mui Typography'
+import { MuiButton } from './components/Mui Button';
+import MuiTable from './components/Mui Table';
+import { MuiTypography } from './components/Mui Typography';
 
 function App() {
 
@@ -7,6 +9,8 @@ function App() {
     <>
       <div>
         <MuiTypography/>
+        <MuiButton/>
+        <MuiTable/>
       </div>
     </>
   )

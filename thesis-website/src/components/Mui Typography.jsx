@@ -15,8 +15,6 @@ export const MuiTypography = () => {
             <Typography variant='h1'> pH Level of Water </Typography>
             <Typography variant = 'h2'> [insert value] </Typography>
 
-            <MuiButton/>
-
 
         </div>
     )
